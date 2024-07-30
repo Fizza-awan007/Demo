@@ -1,3 +1,4 @@
 # Demo
 First github project
-Author Fizza Awan
+<br>
+Author - Fizza Awan
